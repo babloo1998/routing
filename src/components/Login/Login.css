@@ -1,0 +1,25 @@
+
+section div
+{
+    padding: 10px 0;
+}
+.usertxt , .passtxt
+{
+    width: 200px;
+    height: 35px;
+    border : none;
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    border-radius: 3px;
+}
+.loginbtn
+{
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+}
